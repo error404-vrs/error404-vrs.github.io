@@ -12,4 +12,5 @@ p{
     padding: 4px;
     align-items: center;
     justify-content: center;
+    display: flex;
 }
